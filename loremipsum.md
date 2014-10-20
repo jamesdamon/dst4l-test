@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Blogging with IPython and Jekyll"
+tags:
+    - python
+    - notebook
+---
+
+
 #Hello world
 
 
